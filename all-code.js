@@ -1,4 +1,4 @@
-document.onload = function() {
+function sort_in_order() {
   var post_list = document.querySelector(".blog-posts.hfeed.container");
   var these_children = postlist.children;
   var resort_list = [];
